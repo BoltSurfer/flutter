@@ -1,0 +1,6 @@
+child: ElevatedButton(
+  onPressed: () {},
+  child: Text('click me'),
+  style: ElevatedButton.styleFrom(
+     backgroundColor: Colors.<color>,
+),
