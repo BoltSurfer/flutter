@@ -1,0 +1,6 @@
+child: Center(
+        child: Text(
+          "Hello World",
+          textAlign: TextAlign.center,
+        ),
+      ),
